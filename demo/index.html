@@ -1,0 +1,53 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <!--<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />  na development kan deze aan! -->
+
+    <title>Fullscreen Background - jQuery plugin - demo page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
+
+    <link rel="stylesheet" type="text/css" href="style/style.css"/>
+
+    <script type="text/javascript" src="js/libs/jquery.js"></script>
+    <script type="text/javascript" src="js/jquery.fullscreenBackground.js"></script>
+
+    <!--[if lt IE 9]>
+        <script type="text/javascript" src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#background-image").fullscreenBackground();
+        });
+    </script>
+</head>
+
+<body>
+
+    <div id="content">
+        <h1>Fullscreen Background - jQuery plugin - demo page</h1>
+        <p>
+            Here's an example of how a page would look like after using my plugin.
+        </p>
+
+        <p>
+            Go ahead: resize the window and see what it does!
+        </p>
+
+        <p>
+            Want to download this? Go to the article: <a href="http://www.gayadesign.com">http://www.gayadesign.com</a>
+        </p>
+    </div>
+
+    <div id="background-image">
+        <img src="backgrounds/cityscape.jpg" width="2800" height="1600" />
+    </div>
+
+</body>
+</html>
