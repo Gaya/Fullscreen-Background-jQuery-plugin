@@ -3,7 +3,9 @@
 
 Fullscreen background is a small jQuery plugin that allows you to create fullscreen background.
 
-view the demo page
+[Article on Gaya Design](http://www.gayadesign.com/diy/jquery-plugin-fullscreen-background/)
+
+[View the demo page](http://gayadesign.com/scripts/fullscreenbackground/)
 
 ---
 
