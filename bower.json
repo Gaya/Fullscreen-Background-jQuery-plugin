@@ -1,0 +1,14 @@
+{
+  "name": "Fullscreen Background jQuery plugin",
+  "version": "1.0.0",
+  "main": "jquery.fullscreenBackground.js",
+  "description": "Fullscreen background is a small jQuery plugin that allows you to create fullscreen background.",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "1.7.2"
+  },
+  "homepage": "http://www.gayadesign.com/diy/jquery-plugin-fullscreen-background/",
+  "authors": [
+    "Gaya <gaya.kessler@gmail.com>"
+  ],
+}
