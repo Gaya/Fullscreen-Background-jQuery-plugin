@@ -1,4 +1,4 @@
-#Fullscreen Background - jQuery plugin
+# Fullscreen Background - jQuery plugin
 
 
 Fullscreen background is a small jQuery plugin that allows you to create fullscreen background.
@@ -9,7 +9,7 @@ Fullscreen background is a small jQuery plugin that allows you to create fullscr
 
 ---
 
-##How to use:
+## How to use:
 
 1. Include jQuery on your webpage
 
